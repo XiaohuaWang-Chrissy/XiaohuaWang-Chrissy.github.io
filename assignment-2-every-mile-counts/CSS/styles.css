@@ -41,8 +41,8 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: flex-start;
-  gap: 50px;
-  padding: 0 20px;
+  gap: 100px;
+  padding: 50 50px;
 }
 
 .byline-column {
